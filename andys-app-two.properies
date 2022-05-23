@@ -1,5 +1,5 @@
 # Whatever port the app should listen on
-server.port=4425
+server.port=2424
 
 # Allow for RefreshScope
 management.endpoints.web.exposure.include=*
